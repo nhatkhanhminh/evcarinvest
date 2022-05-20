@@ -1,0 +1,8 @@
+.select2-container--default .select2-selection--multiple {
+    border: 1px solid #ced4da;
+}
+
+.select2-container .select2-selection--multiple, .toggle.btn-lg {
+    min-height: 38px;
+}
+
